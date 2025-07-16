@@ -1,0 +1,8 @@
+Flask
+requests
+beautifulsoup4
+textblob
+transformers
+torch
+yfinance
+spacy
